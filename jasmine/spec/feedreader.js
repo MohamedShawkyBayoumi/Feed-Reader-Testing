@@ -81,24 +81,6 @@ $(function() {
     });
 
 
-/*
-    describe('Initial Entries', function () {
-      let entry;
-
-      beforeEach(function (done) {
-        loadFeed(0, done);
-      });
-      // The first test will check that once the loadFeed function has complete
-      // There is at least a single entry in the feed.
-      it('should have at least a single entry element within the feed container', function (done) {
-        entry = document.getElementsByClassName('entry').length;
-        expect(entry).not.toBe(0);
-        expect(entry).not.toBe(undefined);
-        done();
-      });
-    });
-
-*/
 
 
     /* TODO: Write a new test suite named "Initial Entries" */
